@@ -4,3 +4,5 @@ a=2
 print(a)
 print(b)
 print("Hi")
+print("Hi")
+print("GG")
